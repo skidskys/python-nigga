@@ -302,8 +302,8 @@ class Limbz:
         os.system(f'cls & mode 85,20 & title [Limbz Nuker] - Credits')
         print(f'''
                           {self.colour}Limbz Nuker
-                            {self.colour}[\033[37mDiscord{self.colour}] \033[37mskeet#1000
-                            {self.colour}[\033[37mGithub{self.colour}] \033[37mskeqt
+                            {self.colour}[\033[37mDiscord{self.colour}] \033[drknz#0001
+                            {self.colour}[\033[37mGithub{self.colour}] \033[drknz
         \033[37m''')
 
     async def ThemeChanger(self):
